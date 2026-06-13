@@ -26,7 +26,7 @@
 
 # 
 
-# 🔗 \[View the interactive Streamlit dashboard](#) ← \*(link coming after deployment)\*
+# 🔗 [View the interactive Streamlit dashboard](https://zz5ocr749xdx5nrhzgsyad.streamlit.app)
 
 # 
 
