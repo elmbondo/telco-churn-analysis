@@ -2,4 +2,3 @@ _pycache_/
 *.pyc
 .env
 .ipynb_checkpoints/
-outputs/models/
