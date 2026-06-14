@@ -74,5 +74,5 @@ IBM Telco Customer Churn - [Kaggle](https://www.kaggle.com/datasets/blastchar/te
 ## Author
 
 **El Mbondo**
-BSc Mathematics and Computer Science — JKUAT
+BSc Mathematics and Computer Science - JKUAT
 [GitHub](https://github.com/elmbondo)
